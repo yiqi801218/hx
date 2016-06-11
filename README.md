@@ -1,0 +1,1 @@
+Hx [![Build Status](https://travis-ci.org/haha1903/hx.svg?branch=master)](https://travis-ci.org/haha1903/hx)
